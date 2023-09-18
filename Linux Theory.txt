@@ -1,0 +1,38 @@
+1.Dennis Ritchie--1969
+  Birth of C and Unix OS
+  1970--Unix became open source ,colloborated development.
+ 
+ UNIX-->OS
+ LINUX-->KERNEL
+  
+2.1980 Companies developed their own Unix
+IBM(AIX) , SOLARIS(SUN OS) ,HP(HP-UX)
+GNU PROJECT-->FREE(RICHARD STALLMAN) OS(UBUNTU,REDHAT,CENTOS) AND LINUX IS KERNEL ON IT .
+POSIX
+
+VARIOUS LINUX DISTRIBUTIONS.
+1.RED HAT ENTERPRISE LINUX (LINUX FOR SERVERS AND WORKSTATIONS).
+2.FEDORA
+3.DEBIAN
+4.UBUNTU,CENTOS,SUSE LINUX ENTERPRISE,LINUX MINT(WINDOWS LIKE INTERFACE),GEN2.
+
+
+FEATURES OF LINUX
+
+1.OS Updates can happen through a single command in Terminal.
+
+Eg. sudo yum update java
+
+2.CLI-Command Line Interface.
+GUI+CLI
+
+3.Free Software Licensing.
+
+4.Access to Source Code.Can be customised.
+
+5.Multiple DISTRIBUTIONS.
+redhat,debian,fedors,ubuntu
+
+6.Better Malware Protection.
+
+
